@@ -100,7 +100,7 @@ const SellSubPanel = () => {
       <h2 className="text-xl font-bold uppercase mb-4">
         <FormattedMessage id="market__sell_title" />
       </h2>
-      <div className="text-gray-800 bg-gray-100">
+      <div className="text-gray-800 bg-gray-900">
         <Table
           data={inventoryItems}
           fieldLabels={fieldLabels}
