@@ -1,6 +1,6 @@
 # Merchant Odyssey
 
-- Spice Hustle is a simple commodity trading game built with Typescript and ReactJS.
+- Merchant's Odyssey is a simple commodity trading game built with Typescript and ReactJS.
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - The source code for this project can be found on the project's [GitHub](https://github.com/markarenz/spice-hustle).
 
